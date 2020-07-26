@@ -16,8 +16,7 @@ function setup() {
 
   //giving velocity and weight to the bullet
   bullet.velocityX = 30;
-  bullet = weight;
-
+  
   bullet.shapeColor = "yellow";
   wall.shapeColor = (80,80,80);
 }
